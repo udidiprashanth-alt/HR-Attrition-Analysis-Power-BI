@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes employee attrition to help HR teams understand who is leaving, when, and why.
 
-![Dashboard Preview](images/hr_attrition_dashboard.png)
+   ![Dashboard Preview](hr_attrition_dashboard.png)
 
 ## Project Overview
 Employee attrition is costly. This project analyzes a dataset of **1,470 employees** to identify the factors most associated with employees leaving the organization.
